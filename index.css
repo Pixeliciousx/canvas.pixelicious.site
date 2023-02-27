@@ -10,6 +10,8 @@ section{
     align-items: center;
     min-height: 100vh;
     width: 100%;
+
+    /* css is always /* css doesn't have // for comments. **/
     background: url('./assets/images/banner.svg')no-repeat; 
     background-position: center;
     background-size: cover;
@@ -38,7 +40,7 @@ button{
     height: 40px;
     border-radius: 40px;
     background: #fff;
-    color: #000;
+    color: #000000;
     border: none;
     outline: none;
     cursor: pointer;
